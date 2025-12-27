@@ -1,3 +1,4 @@
+langchain
 langchain_openai
 langchain_core
 langchain_community
@@ -8,3 +9,8 @@ fastapi
 uvicorn
 sse_starlette
 langserve
+ipykernal
+bs4
+pypdf
+chromadb
+faiss-cpu
