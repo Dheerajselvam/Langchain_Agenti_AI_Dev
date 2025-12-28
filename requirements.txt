@@ -15,3 +15,5 @@ pypdf
 chromadb
 faiss-cpu
 wikipedia
+langchain_groq
+groq
